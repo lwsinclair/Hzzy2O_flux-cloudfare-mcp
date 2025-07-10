@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-hzzy2o-flux-cloudfare-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-hzzy2o-flux-cloudfare-mcp)
+
 # Flux Cloudflare MCP
 
 ![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)
